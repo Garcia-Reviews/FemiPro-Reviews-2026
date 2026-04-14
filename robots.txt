@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://garcia-reviews.github.io/FemiPro-Reviews-2026/sitemap.xml
